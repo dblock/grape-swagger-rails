@@ -1,5 +1,6 @@
 ### Next Release
 
+* [#1](https://github.com/dblock/grape-swagger-rails/pull/1): Bump Swagger UI to 5.33.3 - [@github-actions](https://github.com/apps/github-actions).
 * Your contribution here.
 
 ### 2.0.1 (2026/10/13)
